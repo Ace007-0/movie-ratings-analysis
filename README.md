@@ -12,6 +12,8 @@ This project performs an in-depth exploratory data analysis (EDA) on a movie rat
 
 🔥 Created a correlation heatmap to visualize relationships among numerical features
 
+📄 Provided the cleaned CSV dataset for further analysis or reuse
+
 🛠️ Technologies Used
 Python
 
